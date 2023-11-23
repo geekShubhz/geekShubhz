@@ -16,7 +16,7 @@ Passionate about crafting digital experiences and bringing ideas to life.
 🚀 Projects:
 - 🎮 Pixel Play: E-commerce Game Store
 - 🎓 University Management System: Utopia academia
-- 🌠 Weather App
-- 🥗 Receipe App
+- 🌠 Stellar Weather: Navigate your day under the celestial ballet with our Weather App.
+- 🥗 Epicurean Delights: Unleash your inner chef and savor culinary adventures with our Recipe App.
 
 Let's collaborate and turn visions into reality! 💡
