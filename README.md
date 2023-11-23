@@ -16,5 +16,7 @@ Passionate about crafting digital experiences and bringing ideas to life.
 🚀 Projects:
 - 🎮 Pixel Play: E-commerce Game Store
 - 🎓 University Management System: Utopia academia
+- 🌠 Weather App
+- 🥗 Receipe App
 
 Let's collaborate and turn visions into reality! 💡
