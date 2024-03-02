@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/geekshubhz/geekshubhz/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/geekshubhz/geekshubhz/output/snake.svg](https://github.com/geekShubhz/geekShubhz/blob/main/snake.yml)" alt="Snake animation" />
 
 ###
 
