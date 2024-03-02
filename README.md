@@ -70,7 +70,7 @@ Let's collaborate and turn visions into reality! 💡
   <a href="https://www.linkedin.com/in/shubhzz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-   <a href="[https://www.linkedin.com/in/shubhzz/](https://www.buymeacoffee.com/shubhzz)" target="_blank">
+   <a href="https://www.buymeacoffee.com/shubhzz" target="_blank">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png" height="35" alt="bmac logo"  />
   </a>
 </div>
