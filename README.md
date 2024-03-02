@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! Hi, I'm Shubhranshu</h2>
-<h1 align="center">Coder 🧑🏻‍💻, Gamer 🎮, Footballer ⚽️ </h1>
+<h1 align="left">Hi 👋🏻! I'm Shubhranshu</h1>
+<h2 align="center">Coder 🧑🏻‍💻, Gamer 🎮, Footballer ⚽️ </h2>
 
 ###
 
