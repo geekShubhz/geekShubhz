@@ -2,6 +2,13 @@
 <h2 align="center">Coder 🧑🏻‍💻, Gamer 🎮, Footballer ⚽️ </h2>
 
 ###
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/geekshubhz/geekshubhz/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 <h3 align="left">Languages and Tools:</h3>
