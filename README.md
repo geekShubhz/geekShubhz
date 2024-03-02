@@ -7,6 +7,8 @@ Passionate about crafting digital experiences and bringing ideas to life.
 - Cloud Computing enthusiast ☁️
 - Proficient in SQL and Data Analytics 📊
 - Stellar presentation and communication skills 🎤
+![29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb](https://github.com/geekShubhz/geekShubhz/assets/124813135/6a6adf94-cdc7-4d9e-bf87-7943ace2301c)
+
 
 🌐 Internship Experience:
 - 📈 Process Mining Intern at Celonis
