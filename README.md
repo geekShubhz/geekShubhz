@@ -41,16 +41,20 @@
 
 ###
 
-🌐 Internship Experience:
-- 📈 Process Mining Intern at Celonis
-- 🤖 Data Science Intern at Coincent.ai
-- 💻 Web Development Intern at Internpe
+<h3 align="left">🌐 Internship Experience:</h3>
+<ul>
+<li>📈 Process Mining Intern at Celonis</li>
+<li>🤖 Data Science Intern at Coincent.ai</li>
+<li>💻 Web Development Intern at Internpe</li>
+</ul>
 
-🚀 Projects:
-- 🎮 Pixel Play: E-commerce Game Store
-- 🎓 University Management System: Utopia academia
-- 🌠 Stellar Weather: Navigate your day under the celestial ballet with our Weather App.
-- 🥗 Epicurean Delights: Unleash your inner chef and savor culinary adventures with our Recipe App.
+<h3 align="left">🚀 Projects:</h3>
+<ul>
+<li>🎮 Pixel Play: E-commerce Game Store.</li>
+<li>🎓 University Management System: Utopia academia.</li>
+<li>🌠 Stellar Weather: Navigate your day under the celestial ballet with our Weather App.</li>
+<li>🥗 Epicurean Delights: Unleash your inner chef and savor culinary adventures with our Recipe App.</li>
+</ul>
 
 Let's collaborate and turn visions into reality! 💡
 
