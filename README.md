@@ -3,8 +3,7 @@
 
 ###
 
-<br clear="both">
-<img src="[https://raw.githubusercontent.com/geekshubhz/geekshubhz/output/snake.svg](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" align="centre" />
 
 ###
 <h3 align="left">Languages and Tools:</h3>
@@ -54,6 +53,10 @@
 - 🥗 Epicurean Delights: Unleash your inner chef and savor culinary adventures with our Recipe App.
 
 Let's collaborate and turn visions into reality! 💡
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geekshubhz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <div align="left">
   <a href="https://discordapp.com/users/shubhz" target="_blank">
