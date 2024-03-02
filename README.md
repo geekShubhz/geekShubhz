@@ -3,11 +3,8 @@
 
 ###
 ###
-
 <br clear="both">
-
-<img src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmarketplace%2Factions%2Fsnake-game-generator-from-github-contributions&psig=AOvVaw3Uhpm4d-tUrtfdKLTF9Qfk&ust=1709479149269000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCZu53w1YQDFQAAAAAdAAAAABAO](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmarketplace%2Factions%2Fsnake-game-generator-from-github-contributions&psig=AOvVaw3Uhpm4d-tUrtfdKLTF9Qfk&ust=1709479149269000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCZu53w1YQDFQAAAAAdAAAAABAO)" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/geekshubhz/geekshubhz/output/snake.svg" alt="Snake animation" />
 ###
 
 ###
