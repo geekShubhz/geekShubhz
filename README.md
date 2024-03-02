@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhranshu</h1>
-<h3 align="center">Full Stack Developer Extraordinaire</h3>
+<h3 align="center">Coder 🧑🏻‍💻, Gamer 🎮, Footballer ⚽️ </h3>
 
 - ⚡ Fun fact **Gamer & Footballer**
 
