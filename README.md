@@ -4,7 +4,7 @@
 ###
 
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
@@ -39,6 +39,19 @@
 
 ###
 
+🌐 Internship Experience:
+- 📈 Process Mining Intern at Celonis
+- 🤖 Data Science Intern at Coincent.ai
+- 💻 Web Development Intern at Internpe
+
+🚀 Projects:
+- 🎮 Pixel Play: E-commerce Game Store
+- 🎓 University Management System: Utopia academia
+- 🌠 Stellar Weather: Navigate your day under the celestial ballet with our Weather App.
+- 🥗 Epicurean Delights: Unleash your inner chef and savor culinary adventures with our Recipe App.
+
+Let's collaborate and turn visions into reality! 💡
+
 <div align="left">
   <a href="shubhz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -52,17 +65,3 @@
 </div>
 
 ###
-
-
-🌐 Internship Experience:
-- 📈 Process Mining Intern at Celonis
-- 🤖 Data Science Intern at Coincent.ai
-- 💻 Web Development Intern at Internpe
-
-🚀 Projects:
-- 🎮 Pixel Play: E-commerce Game Store
-- 🎓 University Management System: Utopia academia
-- 🌠 Stellar Weather: Navigate your day under the celestial ballet with our Weather App.
-- 🥗 Epicurean Delights: Unleash your inner chef and savor culinary adventures with our Recipe App.
-
-Let's collaborate and turn visions into reality! 💡
